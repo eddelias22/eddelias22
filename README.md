@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy Vicente Elías Diez Durán, estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) y apasionado por la tecnología.
+👋 ¡Hola! Soy Vicente Elías Díez Durán, estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) y apasionado por la tecnología.
 Actualmente, me encuentro finalizando mis estudios y buscando oportunidades para aplicar mis conocimientos en el desarrollo de software y aplicaciones móviles.
 
 🧑‍💻 ¿Qué hago?
